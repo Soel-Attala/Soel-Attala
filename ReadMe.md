@@ -74,11 +74,11 @@ I have knowledge of Unity 3D, in which I am developing some personal projects.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" bgcolor="black" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Soel-Attala&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" bgcolor="black" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soel-Attala&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
