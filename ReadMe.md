@@ -22,7 +22,7 @@
 
 ### Glad to see you here!  
 I'm Soel, I'm currently finishing my studies as a university technician in programming.
-At the same time I am specializing in the Microsoft ecosystem implementing C#|ASP.NET Core|SQL Server|Blazor|technologies among others.
+At the same time I am specializing in the Microsoft ecosystem implementing |C#|ASP.NET Core|SQL Server|Blazor| technologies among others.
 
 As a next target I have my eye on Azure for the near future. 
 
